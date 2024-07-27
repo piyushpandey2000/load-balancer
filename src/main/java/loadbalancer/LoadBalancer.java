@@ -1,3 +1,5 @@
+package loadbalancer;
+
 public interface LoadBalancer {
     int PORT = 8888;
 
